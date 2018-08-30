@@ -13,5 +13,5 @@ Slides for presentations I've given at meetups etc.
 
 ### RigelEngine - Reimplementing an old DOS game in modern C++
 
-* [PDF](https://github.com/lethal-guitar/presentations/blob/master/CppMeetupBraunschweig-Aug2018/RigelEngineOct2017.pdf)
-* [PPTX (includes some speaker notes)](https://github.com/lethal-guitar/presentations/blob/master/CppMeetupBraunschweig-Aug2018/RigelEngineOct2017.pptx)
+* [PDF](https://github.com/lethal-guitar/presentations/blob/master/CppMeetupBraunschweig-Aug2018/RigelEngine2018.pdf)
+* [PPTX (includes some speaker notes)](https://github.com/lethal-guitar/presentations/blob/master/CppMeetupBraunschweig-Aug2018/RigelEngine2018.pptx)
